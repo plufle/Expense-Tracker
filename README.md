@@ -156,12 +156,6 @@ Response:
 
 ---
 
-## 📷 Screenshots (Optional)
-
-_Add later if needed_
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! If you want to add new insights, charts, or ML models — feel free to open an issue.
@@ -174,9 +168,3 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want, I can:
-
-- add real image-based architecture diagrams
-- generate badges for GitHub Actions or Amplify Deployment
-- create a prettier README with emojis & styling
-- add documentation for each widget and API file
