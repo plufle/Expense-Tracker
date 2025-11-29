@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-expenseai-dev-65627-authRole",
+      "UnauthRoleArn": "arn:aws:iam::083636778079:role/amplify-expenseai-dev-65627-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::083636778079:role/amplify-expenseai-dev-65627-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-expenseai-dev-65627-deployment",
+      "UnauthRoleName": "amplify-expenseai-dev-65627-unauthRole",
+      "StackName": "amplify-expenseai-dev-65627",
+      "StackId": "arn:aws:cloudformation:ap-south-1:083636778079:stack/amplify-expenseai-dev-65627/65fe55c0-b9ed-11f0-aeaf-069f80a7f44d",
+      "AmplifyAppId": "d1o9xnmz93r676"
+    },
+    "categories": {
+      "auth": {
+        "expensetracker": {}
+      }
+    }
+  },
+  "devnew": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-expenseai-devnew-36c1b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::083636778079:role/amplify-expenseai-devnew-36c1b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::083636778079:role/amplify-expenseai-devnew-36c1b-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-expenseai-devnew-36c1b-deployment",
+      "UnauthRoleName": "amplify-expenseai-devnew-36c1b-unauthRole",
+      "StackName": "amplify-expenseai-devnew-36c1b",
+      "StackId": "arn:aws:cloudformation:ap-south-1:083636778079:stack/amplify-expenseai-devnew-36c1b/1d5f0d50-ba1a-11f0-966c-0296dde78743",
+      "AmplifyAppId": "d1o9xnmz93r676"
+    },
+    "categories": {
+      "auth": {
+        "expensetracker": {}
+      }
+    }
+  }
+}
